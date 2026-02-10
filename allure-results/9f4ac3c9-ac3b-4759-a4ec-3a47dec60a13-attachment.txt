@@ -1,3 +1,0 @@
-<html>
-  <body>{"responseCode": 200, "user": {"id": 212686, "name": "tester", "email": "test@test.com", "title": "Mr", "birth_day": "16", "birth_month": "3", "birth_year": "2006", "first_name": "Mohamed", "last_name": "Abkar", "company": "Eurostyle Systems Tanger", "address1": "4691 Monroe Street Northeast", "address2": "", "country": "United States", "state": "Minnesota", "city": "Minneapolis", "zipcode": "55421"}}</body>
-</html>
