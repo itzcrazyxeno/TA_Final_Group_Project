@@ -1,6 +1,8 @@
-#Testing Automation Engineering - Final Group Project
+Testing Automation Engineering - Final Group Project
 
-#Overview
+---
+
+Overview
 This project implements an End-to-End Test Automation Framework for the "Automation Exercise", covering both UI and API testing.
 
 The framework is built using:
@@ -16,15 +18,17 @@ Target Applications:
 - UI: https://automationexercise.com
 - API: https://automationexercise.com/api_list
 
-## Group Members
+---
+
+Group Members
 - Sergo Menabdishvili
 - Mariam Elashvili
 
-## Tests Responsibility Mapping
+Tests Responsibility Mapping
 
-## UI Tests
+UI Tests
 
-**Sergo Menabdishvili**
+Sergo Menabdishvili
 
 1. Verify Home Page is visible
 2. Open Products page
@@ -34,7 +38,7 @@ Target Applications:
 6. Open Cart page
 7. Remove product from cart
 
-**Mariam Elashvili**
+Mariam Elashvili
 
 8. Contact Us form submission
 9. Verify subscription on Home page
@@ -42,9 +46,9 @@ Target Applications:
 
 ---
 
-### API Tests
+API Tests
 
-**Sergo Menabdishvili**
+Sergo Menabdishvili
 
 1. GET all products list
 2. GET all brands list
@@ -52,7 +56,7 @@ Target Applications:
 4. POST create user account
 5. PUT update user account
 
-**Mariam Elashvili**
+Mariam Elashvili
 
 6. DELETE user account
 7. POST search product
@@ -60,12 +64,15 @@ Target Applications:
 9. POST verify login with invalid credentials
 10. POST logout user
 
-## How to Run the Tests
+---
 
-### Run all tests
+How to Run the Tests
+
+Run all tests
+
 Terminal:
 mvn clean test
 
-##Generate Allure Report
+Generate Allure Report:
 mvn allure:report
 mvn allure:serve
