@@ -25,6 +25,7 @@ Target Applications:
 ## UI Tests
 
 **Sergo Menabdishvili**
+
 1. Verify Home Page is visible
 2. Open Products page
 3. Search product
@@ -34,6 +35,7 @@ Target Applications:
 7. Remove product from cart
 
 **Mariam Elashvili**
+
 8. Contact Us form submission
 9. Verify subscription on Home page
 10. Verify Scroll Up button functionality
@@ -43,6 +45,7 @@ Target Applications:
 ### API Tests
 
 **Sergo Menabdishvili**
+
 1. GET all products list
 2. GET all brands list
 3. GET user account details
@@ -50,6 +53,7 @@ Target Applications:
 5. PUT update user account
 
 **Mariam Elashvili**
+
 6. DELETE user account
 7. POST search product
 8. POST verify login with valid credentials
